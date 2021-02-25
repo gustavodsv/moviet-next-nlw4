@@ -23,14 +23,15 @@
 
 .countdownContainer > div span {
     flex: 1;
+    padding: 0 3px;
 }
 
-.countdownContainer > div span:first-child {
+/* .countdownContainer > div span:first-child {
     border-right: 1px solid #FBF1F3;
 }
 .countdownContainer > div span:last-child {
     border-left: 1px solid #FBF1F3;
-}
+} */
 
 .countdownContainer > span {
     font-size: 6.25rem;

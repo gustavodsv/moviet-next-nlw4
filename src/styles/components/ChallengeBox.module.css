@@ -11,6 +11,8 @@
     justify-content: center;
 
     text-align: center;
+
+    padding: 25px;
 }
 
 .challengeNotActive {
@@ -45,7 +47,7 @@
     color: var(--blue);
     font-weight: 600;
     font-size: 1.25rem;
-    padding: 0 2rem 1.5rem;
+    padding: 0 2rem 1rem;
     border-bottom: 1px solid var(--gray-line);
 }
 .challengeActive main {
