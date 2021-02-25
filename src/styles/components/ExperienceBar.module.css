@@ -17,9 +17,3 @@
     border-radius: 4px;
     background-color: var(--green);
 }
-
-span.currentExperience {
-    position: absolute;
-    top: 12px;
-    transform: translateX(-50%);
-}
