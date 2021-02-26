@@ -7,7 +7,7 @@
     flex: 1;
     height: 4px;
     border-radius: 4px;
-    background-color: var(--gray-live);
+    background-color: var(--gray-line);
     margin: 0 1.5rem;
     position: relative;
 }

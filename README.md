@@ -1,26 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Site de Demonstração
 
-## Clone Project
+O site de demonstração pode estar faltando alguns recursos, clone e execute o projeto para uma experiência completa. <br><br>
+👉  [Site de Demonstração](https://moviet-next-nlw4-gustavodsv.vercel.app/)
 
-````bash
-git clone https://github.com/gustavodsv/moviet-next-nlw4
-````
+# Tecnologias Usadas no projeto
 
-## Getting Started
+Este projeto foi feito utilizando as seguintes tecnologias:
 
-First, run the development server:
+* [Typescript](https://www.typescriptlang.org/)
+* [React](https://reactjs.org/)
+* [Next.js](https://nextjs.org/)
+
+# Objetivo do projeto
+
+* Técnica Pomodoro.
+* A técnica consiste na utilização de um cronômetro para dividir os estudos em períodos de 25 minutos, separados por breves exercícios.
+
+# Clonar Projeto
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Faça o clone do repositório
+$ git clone https://github.com/gustavodsv/moviet-next-nlw4.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Para Executar
 
-## Learn More
+```bash
+# Instalar Node.js
+https://nodejs.org/en/#home-downloadhead
 
-To learn more about Next.js, take a look at the following resources:
+# Instalar Dependencia
+$ yarn install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Execute o Aplicativo
+$ yarn dev
+```
+
+Após executar o aplicativo, vá para http://localhost:3000/ para ver o resultado.
+
+# Licenças
+
+Feito por [Gustavo Venâncio](https://github.com/gustavodsv). <br>
+Este projeto está sob a licença [MIT license](./LICENSE).
+
+Realizado em 2020 :closed_book: Licença
