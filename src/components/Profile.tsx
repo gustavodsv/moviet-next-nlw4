@@ -7,9 +7,9 @@ export function Profile(){
 
     return (
         <div className={ styles.profileContainer }>
-            <img src="https://pbs.twimg.com/profile_images/1358229460684791808/pGWnIySr_400x400.jpg" alt="gustavo Venâncio"/>
+            <img src="https://i.pinimg.com/originals/a1/2d/6b/a12d6bc33a1421669ff8f4b1dbae3978.png" alt="User"/>
             <div>
-                <strong>Gustavo Venâncio</strong>
+                <strong>Pikachu Code Café Chocolate-Charge</strong>
                 <p>
                     <img src="icons/level.svg" alt="Level"/>
                     Level {level}
